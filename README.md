@@ -21,6 +21,9 @@ This repository presents a data science project that investigates the factors af
 ## 3️⃣ Software Version
 - pip 23.0.1
 - Python 3.10.15
+## 4️⃣ 📁 DataSet
+- This project uses the **Lung Capacity of Kids** dataset, available on Kaggle:
+  * [🔗 Lung Capacity of Kids Dataset](https://www.kaggle.com/datasets/jacopoferretti/lung-capacity-of-kids)
 
 # 📈 Key Insights
 - Smoking exposure significantly reduces predicted lung capacity in children.
